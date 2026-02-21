@@ -1,4 +1,4 @@
-# hute-mate
+# hue-mate
 
 <div align="left">
 
